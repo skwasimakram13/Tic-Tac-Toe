@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Screenshot](/sherni.png) <!-- Replace with your actual screenshot path -->
+![Tic Tac Toe Screenshot](https://ibb.co/N2FcSKpL) <!-- Replace with your actual screenshot path -->
 
 A modern, responsive Tic Tac Toe game built with HTML, CSS (Tailwind CSS), and JavaScript. Play against a friend in this classic game with beautiful animations and a sleek UI.
 
@@ -39,7 +39,7 @@ No installation required! This is a client-side web application that runs direct
 
 1. Clone this repository or download the files
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/skwasimakram13/tic-tac-toe.git
 
 ## Customization
 You can easily customize the game by modifying:
@@ -68,4 +68,19 @@ You can easily customize the game by modifying:
 
 ## License
 MIT License - See LICENSE file
+
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+
+- 👨‍💻 All of my projects are available at [https://skwasimakram.com](https://skwasimakram.com)
+
+- 📝 I regularly write articles on [https://blog.skwasimakram.com](https://blog.skwasimakram.com)
+
+- 📫 How to reach me **hello@skwasimakram.com**
+
+- 🧑‍💻 Google Developer Profile [https://g.dev/skwasimakram](https://g.dev/skwasimakram)
+
+- 📲 LinkedIn [https://www.linkedin.com/in/sk-wasim-akram](https://www.linkedin.com/in/sk-wasim-akram)
+
+---
 
