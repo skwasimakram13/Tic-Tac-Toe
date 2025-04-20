@@ -41,11 +41,10 @@ No installation required! This is a client-side web application that runs direct
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
 
-Customization
+## Customization
 You can easily customize the game by modifying:
 
 Colors: Change the color scheme in the Tailwind CSS classes
-
 Animations: Adjust the CSS animation properties in the <style> section
 
 Player names: Edit the player names in the HTML
