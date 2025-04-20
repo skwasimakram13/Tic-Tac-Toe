@@ -44,37 +44,28 @@ No installation required! This is a client-side web application that runs direct
 ## Customization
 You can easily customize the game by modifying:
 
-Colors: Change the color scheme in the Tailwind CSS classes
-Animations: Adjust the CSS animation properties in the <style> section
+- **Colors:** Change the color scheme in the Tailwind CSS classes
+- **Animations:** Adjust the CSS animation properties in the <style> section
+- **Player names:** Edit the player names in the HTML
 
-Player names: Edit the player names in the HTML
+- **Scoring:** Modify the scoring logic in the JavaScript
 
-Scoring: Modify the scoring logic in the JavaScript
+## Future Enhancements
+- **Potential improvements:**
+1. Add single-player mode against AI
+2. Implement difficulty levels
+3. Add sound effects
+4. Save game state locally
+5. Add multiplayer online functionality
 
-Future Enhancements
-Potential improvements:
+## Technologies
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript**
+- **Font Awesome 6 for icons**
+- **CSS Animations for smooth transitions**
+  **Meta Tags optimized for SEO and social sharing**
 
-Add single-player mode against AI
-
-Implement difficulty levels
-
-Add sound effects
-
-Save game state locally
-
-Add multiplayer online functionality
-
-Technologies
-HTML5
-Tailwind CSS
-JavaScript
-
-Font Awesome 6 for icons
-
-CSS Animations for smooth transitions
-
-Meta Tags optimized for SEO and social sharing
-
-License
+## License
 MIT License - See LICENSE file
 
