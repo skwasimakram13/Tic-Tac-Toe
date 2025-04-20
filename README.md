@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Screenshot](https://ibb.co/N2FcSKpL) <!-- Replace with your actual screenshot path -->
+![Tic Tac Toe Screenshot](/tictactoe.png) <!-- Replace with your actual screenshot path -->
 
 A modern, responsive Tic Tac Toe game built with HTML, CSS (Tailwind CSS), and JavaScript. Play against a friend in this classic game with beautiful animations and a sleek UI.
 
